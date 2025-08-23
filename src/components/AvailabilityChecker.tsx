@@ -34,7 +34,7 @@ const AvailabilityChecker = () => {
     }
 
     // Construct Airbnb URL with selected dates and guests
-    const airbnbUrl = `https://www.airbnb.com/s/Abbies-Place/homes?checkin=${checkIn}&checkout=${checkOut}&adults=${guests}`;
+    const airbnbUrl = `https://www.airbnb.com/h/abbieplace`;
 
     // Open Airbnb in a new tab
     window.open(airbnbUrl, "_blank");
