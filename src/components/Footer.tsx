@@ -23,15 +23,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="w-4 h-4 text-warm-400" />
-                <span className="text-warm-300">Mountain View, Nature Valley</span>
+                <span className="text-warm-300">High Peak, England</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-warm-400" />
-                <span className="text-warm-300">(555) 123-4567</span>
+                <span className="text-warm-300">07818 557438</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-warm-400" />
-                <span className="text-warm-300">hello@abbiesplace.com</span>
+                <span className="text-warm-300">abbienicholls@yahoo.co.uk</span>
               </div>
             </div>
           </div>
