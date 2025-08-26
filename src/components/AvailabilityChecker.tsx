@@ -124,7 +124,7 @@ const AvailabilityChecker = () => {
               <p className="text-warm-700 text-sm text-center">
                 <strong>Peak Season:</strong> June - August | <strong>Off Season:</strong> September - May
                 <br />
-                Minimum stay: 2 nights | Maximum occupancy: 8 guests
+                Minimum stay: 2 nights | Maximum occupancy: 4 guests
               </p>
             </div>
           </CardContent>
