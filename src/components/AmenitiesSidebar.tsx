@@ -44,7 +44,7 @@ const activities = [
 { icon: Rabbit, name: "High Lea Park, New Mills", description: "A peaceful park with gardens, play areas, and walking paths." },
 { icon: Rabbit, name: "Manor Park, Glossop", description: "Expansive green space with play areas and lakes (McDonald's close by!)." },
 { icon: Rabbit, name: "Chatsworth Farmyard & Adventure Park", description: "Family-friendly attraction with farm animals and adventure playgrounds." },
-{ icon: Rabbit, name: "Matlock Batgit add .h", description: "A riverside village known for arcades, fish & chips, and cable cars." },
+{ icon: Rabbit, name: "Matlock Bath", description: "A riverside village known for arcades, fish & chips, and cable cars." },
 { icon: Rabbit, name: "Matlock Meadows Ice-cream Parlour & Coffee Shop", description: "Homemade ice cream, coffee, and countryside views." },
 { icon: Rabbit, name: "Matlock Farm Park", description: "Petting farm with activities for children and animal encounters." },
 { icon: Rabbit, name: "Buxton Opera House", description: "Historic theatre hosting shows, live music, and cinema screenings." },
